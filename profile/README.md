@@ -1,2 +1,1 @@
-# .github
-Starwest Techno LLP
+# Starwest Techno LLP
