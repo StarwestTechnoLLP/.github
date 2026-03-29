@@ -1,40 +1,114 @@
-# Starwest Techno LLP
+# Starwest Techno
 
-**Innovating the Future of Technology | Empowering Business through Technical Excellence**
+[![Website](https://img.shields.io/badge/Website-starwesttechno.com-blue)](https://starwesttechno.com/)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-Starwest Techno LLP is a forward-thinking technical consulting firm dedicated to solving complex challenges with innovative solutions and strategic investments. We believe in the power of clean code, efficient infrastructure, and intelligent automation.
+> Innovating the Future of Technology
 
-### 🛠️ Core Expertise
+This repository contains the official website and infrastructure code for **Starwest Techno LLP**, a premier technical consulting firm delivering DevOps excellence, AI Agent solutions, and cutting-edge technical consulting services.
 
-- **Technical Consulting**: Strategic guidance and high-performance development for complex software systems.
-- **DevOps & FinOps**: Optimizing infrastructure, modernizing deployment pipelines, and managing cloud costs with precision.
-- **AI Agent Development**: Engineering intelligent, autonomous agents to automate and enhance business processes.
-- **Strategic Investments**: Fostering innovation across sectors including FinTech, HealthTech, Green Energy, AI Infrastructure, EdTech, and SaaS.
+## 🌟 About Starwest Techno
 
-### 💻 Tech Stack & Tools
+Starwest Techno LLP is a technology consulting company specializing in:
 
-We leverage modern, industry-leading technologies to deliver premier engineering solutions:
+- **Technical Consulting**: Strategic guidance and development for complex software systems
+- **DevOps & FinOps**: Optimizing infrastructure, deployment pipelines, and cloud costs
+- **AI Agent Development**: Building intelligent agents to automate and enhance business processes
+- **Strategic Investments**: Actively investing in promising technology sectors to foster innovation
 
-- **Frontend**: Next.js 15, React, Tailwind CSS 4
-- **Backend/Systems**: Node.js, API Services, PDF Render Pro
-- **Infrastructure**: Docker, Nginx, GitHub Actions (CI/CD)
-- **Design/UI**: Lucide React, Minimalist & Performance-First Design
+## 🚀 Services
 
-### 🌟 Our Mission & Vision
+### Technical Consulting
+Expert guidance on software architecture, system design, and complex technical challenges. We help businesses navigate technology decisions and implement robust solutions.
 
-> **Mission**: To empower businesses with the technology and expertise they need to thrive in the digital age.
-> 
-> **Vision**: To be a global leader in technical consulting and AI innovation, known for our commitment to quality, integrity, and client success.
+### DevOps & FinOps
+- Infrastructure optimization and automation
+- CI/CD pipeline design and implementation
+- Cloud cost optimization and FinOps practices
+- Container orchestration and microservices architecture
+- SSL/TLS certificate management with automated renewal
 
-### 🤝 Connect with Us
+### AI Agent Development
+Custom AI agent solutions that automate business processes, enhance decision-making, and deliver intelligent automation for modern enterprises.
 
-- 🌐 [Official Website](https://starwesttechno.com)
-- 💼 [LinkedIn](https://www.linkedin.com/company/starwesttecho)
-- 🐦 [X (Twitter)](https://x.com/starwesttechno)
-- 📺 [YouTube](https://www.youtube.com/@STARWESTTECHNO)
-- 🚀 [RapidAPI](https://rapidapi.com/organization/starwest-techno-llp)
-- 📧 [Support & Inquiry](mailto:support@starwesttechno.com) (Placeholder - based on typical pattern)
+### API Services
+Production-ready API services including:
+- **PDF Generation API**: Convert HTML to PDF with custom styling and configurations
+- RESTful API design and implementation
+- API gateway and proxy management
+- Health check and monitoring endpoints
+
+## 🏗️ Infrastructure
+
+Our infrastructure leverages modern DevOps practices and tools:
+
+- **Containerization**: Docker-based deployments
+- **Reverse Proxy**: Nginx with SSL/TLS termination
+- **SSL Management**: Automated certificate generation and renewal using Certbot
+- **CI/CD**: GitHub Actions workflows for automated builds and deployments
+- **Version Control**: Semantic versioning with automated releases
+- **Monitoring**: Health check endpoints and structured logging
+
+## 📁 Repository Structure
+
+This public repository serves as the central hub for:
+- Website source code and assets
+- Infrastructure as Code (IaC)
+- Docker configurations
+- Nginx proxy configurations
+- Deployment workflows
+- Documentation
+
+## 🛠️ Technology Stack
+
+- **Backend**: .NET (C#) with Falcon framework
+- **Frontend**: Modern HTML, CSS, JavaScript
+- **Infrastructure**: Docker, Docker Compose
+- **Proxy**: Nginx with SSL/TLS
+- **SSL**: Certbot (Let's Encrypt)
+- **CI/CD**: GitHub Actions
+- **Version Management**: Semantic versioning
+
+## 🌐 Live Services
+
+- **Main Website**: [starwesttechno.com](https://starwesttechno.com/)
+- **API Services**: [pdfapi.starwesttechno.com](https://pdfapi.starwesttechno.com/)
+
+## 📚 Documentation
+
+Detailed documentation can be found in the `/docs` directory:
+- API Usage Guide
+- Deployment Instructions
+- Infrastructure Setup
+- Troubleshooting Guide
+- Subdomain Configuration
+
+## 🤝 Support
+
+Need assistance or have questions?
+
+- **Website**: [starwesttechno.com/support](https://starwesttechno.com/support)
+- **Contact**: Get in touch through our [support page](https://starwesttechno.com/support)
+
+## 📄 Legal
+
+- [Privacy Policy](https://starwesttechno.com/legal/privacy)
+- [Terms of Use](https://starwesttechno.com/legal/terms)
+- [Sales and Refunds](https://starwesttechno.com/legal/sales)
+- [Legal Information](https://starwesttechno.com/legal)
+
+## 🔒 Security
+
+We take security seriously. If you discover a security vulnerability, please contact us through our support channels.
+
+## 📊 Project Status
+
+This is an active production project. We continuously improve our infrastructure, services, and offerings.
+
+## 🎯 Mission
+
+To deliver world-class technical expertise and innovation that transforms businesses and drives technological advancement.
 
 ---
 
-*Built with ❤️ by the Starwest Techno Engineering Team.*
+© 2025 Starwest Techno LLP. All rights reserved.
