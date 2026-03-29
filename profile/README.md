@@ -1,4 +1,4 @@
-# Starwest Techno
+# Starwest Techno LLP
 
 [![Website](https://img.shields.io/badge/Website-starwesttechno.com-blue)](https://starwesttechno.com/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
